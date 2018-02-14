@@ -1,1 +1,36 @@
+/* Estilos generales */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
 
+h1 {
+  margin: 0;
+  padding: 1em 0;
+  font-family: 'Mukta Mahee', sans-serif;
+}
+
+/* Estilos al encabezado */
+
+.masthead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFC433;
+  padding-bottom: 3em;
+}
+
+/* Estilo al label */
+
+.visuallyhidden {
+  display: none;
+}
+
+/* Estilo al input para buscar */
+
+.search-input {
+  padding: 0.8em 22em 0.8em 1em;
+}
