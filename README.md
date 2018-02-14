@@ -18,7 +18,7 @@ Esta aplicación web tiene como objetivo brindar un artículo al usuario según 
 
 * XHR
 
-* API del diario New York Times(me permite acceder a los artículos de su base de datos).
+* API del diario New York Times(me permite acceder a los artículos de su base de datos.)
 
 * NPM
 
